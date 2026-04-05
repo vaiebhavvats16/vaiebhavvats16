@@ -4,8 +4,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
-  http://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=Vaiebhav%20vats&x=none
-
 </div>
 
 <h3 align="center">
