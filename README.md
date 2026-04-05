@@ -4,7 +4,39 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
+
+<svg width="780" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="780" height="140" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="778" height="138" rx="15" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  
+  <!-- Left accent bar -->
+  <rect x="32" y="32" width="4" height="76" rx="2" fill="#6366f1"/>
+  
+  <!-- Name -->
+  <text x="52" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="#e6edf3">Vaiebhav Vats</text>
+  
+  <!-- Role -->
+  <text x="52" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8b949e">Full Stack &amp; AI Developer</text>
+
+  <!-- Status dot -->
+  <circle cx="720" cy="50" r="6" fill="#238636"/>
+  <text x="733" y="54" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#3fb950">Open to work</text>
+</svg>
+
+```bash
+$ whoami
+> Vaiebhav Vats — Full Stack & AI Developer
+
+$ ls projects/
+> ConvertAI/   PitchSpark/   FinancePro/
+
+$ echo $status
+> Open to remote internships & freelance projects ✅
+```
+
+
 </div>
+
 
 <h3 align="center">
   🚀 Building AI-powered web tools for the real world
