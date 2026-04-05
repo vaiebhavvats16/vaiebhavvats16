@@ -1,15 +1,12 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
+# Vaiebhav Vats 
+**Full Stack & AI Developer**
 
-<div>
-# VAIEBHAV VATS
-**Full Stack & AI Developer** — I build AI-powered tools that ship.
+<sub>Open to Internships & Freelance projects  ·  <a href="mailto:vaiebhavvats@gmail.com">vaiebhavvats@gmail.com</a></sub>
 
-<sub>Open to Internships & Freelance projects · <a href="mailto:vaiebhvvats@gmail.com">vaiebhvvats@gmail.com</a></sub>
-</div>
 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
 </div>
 
@@ -25,7 +22,7 @@
   <a href="https://linkedin.com/in/vaiebhav-vats" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vaiebhavvats@gmail.com
+  <a href="mailto:vaiebhavvats@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -39,7 +36,7 @@ I specialize in integrating **LLMs into practical SaaS products** — from landi
 
 - 🔭 Currently building AI-powered SaaS tools
 - 🌱 Deep-diving into **LLM pipelines**, **prompt engineering**, and **serverless architecture**
-- 💼 Open to **Remote Internships** and **Freelance Projects**
+- 💼 Open to **Internships** and **Freelance Projects**
 - ⚡ I ship fast and iterate faster
 
 ---
@@ -127,17 +124,7 @@ A full MERN-stack personal finance platform for tracking income, expenses, budge
 ---
 
 <div align="center">
-  <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="800" height="120" rx="12" fill="url(#grad)"/>
-    <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Vaiebhav Vats</text>
-    <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">· Full Stack &amp; AI Developer</text>
-  </svg>
 
+  **Vaiebhav Vats  ·  Full Stack & AI Developer**
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 </div>
