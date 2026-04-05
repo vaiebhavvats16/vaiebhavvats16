@@ -2,7 +2,7 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB2&height=100&section=footer" />
 
 </div>
 
