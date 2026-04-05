@@ -4,12 +4,21 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=100000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
+<div align="right">
+  <sub>Open to Internships & Freelance projects · <a href="mailto:vaiebhvvats@gmail.com">vaiebhvvats@gmail.com</a></sub>
+</div>
 
+---
+
+# Vaiebhav Vats
+**Full Stack & AI Developer** — I build AI-powered tools that ship.
+
+---
 ```bash
 $ whoami
 > Vaiebhav Vats — Full Stack & AI Developer
 $ echo $status
-> Open to remote internships & freelance projects ✅
+> Open to Internships & freelance projects ✅
 ```
 
 
