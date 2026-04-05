@@ -129,6 +129,7 @@ A full MERN-stack personal finance platform for tracking income, expenses, budge
   <rect width="800" height="120" rx="12" fill="url(#grad)"/>
   <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Vaiebhav Vats</text>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="#e0e7ff" text-anchor="middle">  ·  Full Stack &amp; AI Developer </text>
-</svg>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+</svg>
+  
 </div>
