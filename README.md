@@ -120,16 +120,16 @@ A full MERN-stack personal finance platform for tracking income, expenses, budge
 
 <div align="center">
   <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="800" height="120" rx="12" fill="url(#grad)"/>
-  <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00FFB2" text-anchor="middle">Vaiebhav Vats</text>
-  <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="#00FFB2" text-anchor="middle">  ·  Full Stack &amp; AI Developer </text>
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="800" height="120" rx="12" fill="url(#grad)"/>
+    <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00FFB2" text-anchor="middle">Vaiebhav Vats</text>
+    <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="#00FFB2" text-anchor="middle">· Full Stack &amp; AI Developer</text>
+  </svg>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB2&height=100&section=footer" />
-</svg>
-  
 </div>
