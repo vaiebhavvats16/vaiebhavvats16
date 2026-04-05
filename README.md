@@ -3,12 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
-# Vaiebhav Vats
-**Full Stack & AI Developer** — I build AI-powered tools that ship.
----
+# VAIEBHAV VATS
+##**Full Stack & AI Developer** — I build AI-powered tools that ship.
 <div align="right">
   <sub>Open to Internships & Freelance projects · <a href="mailto:vaiebhvvats@gmail.com">vaiebhvvats@gmail.com</a></sub>
 </div>
+---
+
 
 </div>
 
