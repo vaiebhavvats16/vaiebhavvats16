@@ -1,6 +1,20 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Vaiebhav%20Vats&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vaiebhav+Vats;Full+Stack+%26+AI+Developer;Building+AI-powered+web+tools)
+
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" rx="12" fill="url(#grad)"/>
+  <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Vaiebhav Vats</text>
+  <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="#e0e7ff" text-anchor="middle">Full Stack &amp; AI Developer · React · Node.js · OpenAI</text>
+</svg>
+
 </div>
 
 <h3 align="center">
