@@ -1,8 +1,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB2&height=100&section=footer" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vaiebhav+Vats)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer" />
 
 </div>
 
@@ -129,7 +129,7 @@ A full MERN-stack personal finance platform for tracking income, expenses, budge
   <rect width="800" height="120" rx="12" fill="url(#grad)"/>
   <text x="400" y="52" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Vaiebhav Vats</text>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="16" fill="#e0e7ff" text-anchor="middle">  ·  Full Stack &amp; AI Developer </text>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB2&height=100&section=footer" />
 </svg>
   
 </div>
