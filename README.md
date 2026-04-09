@@ -16,7 +16,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://portfolio-website-omega-green.vercel.app/" target="_blank">
+  <a href="https://portfolio-website-vdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vaiebhav-vats" target="_blank">
@@ -119,7 +119,7 @@ A full MERN-stack personal finance platform for tracking income, expenses, budge
 - 🤝 **Freelance Projects** — Landing pages, SaaS MVPs, AI integrations
 
 > If you're a founder or recruiter — let's talk.  
-> 📩 **vaiebhavvats@gmail.com** · [LinkedIn](https://linkedin.com/in/vaiebhav-vats) · [Portfolio](https://portfolio-website-omega-green.vercel.app/)
+> 📩 **vaiebhavvats@gmail.com** · [LinkedIn](https://linkedin.com/in/vaiebhav-vats) · [Portfolio](https://portfolio-website-vdev.vercel.app/)
 
 ---
 
